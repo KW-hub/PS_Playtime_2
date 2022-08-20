@@ -2,6 +2,8 @@
 記事リンク  
 https://note.com/gggg502/n/ne86bb40a5065  
 
+GameTime scraping.ipynb：データ収集に使ったスクレイピングのコードです  
+
 data.csv：各プラットフォームごとの各タイトルのクリアまでにかかるプレイ時間の表です。  
 
 game_title.xlsx：分析に用いたタイトル名とプレイ時間をまとめたファイルです。  
