@@ -1,0 +1,4 @@
+# PS_Playtime_2
+data.csv：各プラットフォームごとの各タイトルのクリアまでにかかるプレイ時間の表です
+hist_data.csv：ヒストグラム描画用に作成したファイルです。data.csvのデータを縦持ちに変換したものです。
+ps_playtime_script.R：分析内容のスクリプトです。
